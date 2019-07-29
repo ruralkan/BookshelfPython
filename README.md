@@ -47,9 +47,6 @@ The stories are implemented in the order given below.
 6. Books: Update only a attribute from Book
 	A user needs to be able to modify only one attribute from book:
 	* Title
-	* author
-	* genre
-	* description
 	* read
 
 	Given an ID, and the value for the updated attribute, the system will provide a way to update the book in the database.
